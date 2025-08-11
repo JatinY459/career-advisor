@@ -39,6 +39,7 @@ Contains data on:
 ---
 
 ## 📁 Project Structure
+```
 Career-Advisor/
 │
 ├── data/ # Raw and processed datasets
@@ -48,7 +49,7 @@ Career-Advisor/
 ├── reports/ # Analysis reports & documentation
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🚀 Features
