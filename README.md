@@ -73,5 +73,5 @@ Feel free to fork this repo and submit a pull request.
 
 ## 📧 Contact
 **Developer:** Jatin Yadav  
-**GitHub:** [your-github-link]  
-**LinkedIn:** [your-linkedin-link]
+**GitHub:** [https://github.com/JatinY459](JatinY459) 
+**LinkedIn:** [https://www.linkedin.com/in/jatinyadav459/](jatinyadav459)
